@@ -1,0 +1,7 @@
+application:
+  name: node-express-starter  
+  logger:
+    level: "ALL"  
+  express:
+    host: localhost
+    port: 3000    
